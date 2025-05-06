@@ -26,7 +26,7 @@ Bienvenido al manual de usuario de AutoGest Pro, un sistema integral de gestión
 
 AutoGest Pro incorpora estructuras avanzadas como grafo no dirigido, compresión Huffman, Blockchain y Árbol de Merkle, mejorando la seguridad, el análisis relacional y el almacenamiento de datos. La interfaz gráfica, desarrollada con GTK, ofrece un entorno intuitivo y adaptable para todos los usuarios.
 
-![https://i.ibb.co/3Y99xCgH/Whats-App-Image-2025-05-06-at-4-11-55-PM.jpg]
+![Mi imagen](https://i.ibb.co/3Y99xCgH/Whats-App-Image-2025-05-06-at-4-11-55-PM.jpg)
 
 ## Requerimientos del Sistema
 
@@ -68,13 +68,13 @@ Al iniciar AutoGest Pro, se presentará la pantalla de inicio de sesión donde p
 
 **Nota:** Si es la primera vez que utiliza el sistema, utilice las credenciales del administrador para comenzar a configurar el sistema.
 
-![https://i.ibb.co/GvPnfSvc/Whats-App-Image-2025-05-06-at-4-12-35-PM.jpg]
+![Mi imagen](https://i.ibb.co/GvPnfSvc/Whats-App-Image-2025-05-06-at-4-12-35-PM.jpg)
 
 ## Rol Administrador
 
 Como administrador del sistema, tendrá acceso a todas las funcionalidades de AutoGest Pro, incluyendo la gestión completa de usuarios, vehículos, repuestos, servicios y reportes.
 
-![https://i.ibb.co/3Y99xCgH/Whats-App-Image-2025-05-06-at-4-11-55-PM.jpg]
+![Mi imagen](https://i.ibb.co/3Y99xCgH/Whats-App-Image-2025-05-06-at-4-11-55-PM.jpg)
 
 ### Carga Masiva
 
@@ -89,7 +89,7 @@ Para realizar una carga masiva:
 5. Haga clic en "Iniciar Carga"
 6. Espere a que el sistema procese los archivos y muestre el resultado de la operación
 
-![https://i.ibb.co/jvv72L3y/Whats-App-Image-2025-05-06-at-4-13-46-PM.jpg]
+![Mi imagen](https://i.ibb.co/jvv72L3y/Whats-App-Image-2025-05-06-at-4-13-46-PM.jpg)
 
 **Formato de los archivos JSON:**
 
@@ -148,7 +148,7 @@ Para agregar un nuevo usuario al sistema:
    - Contraseña
 3. Haga clic en "Guardar"
 
-![https://i.ibb.co/4R9cG3YD/Whats-App-Image-2025-05-06-at-4-14-50-PM.jpg]
+![Mi imagen](https://i.ibb.co/4R9cG3YD/Whats-App-Image-2025-05-06-at-4-14-50-PM.jpg)
 
 #### Visualización de Usuarios
 
