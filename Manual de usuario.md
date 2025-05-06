@@ -68,7 +68,7 @@ Al iniciar AutoGest Pro, se presentará la pantalla de inicio de sesión donde p
 
 **Nota:** Si es la primera vez que utiliza el sistema, utilice las credenciales del administrador para comenzar a configurar el sistema.
 
-![Mi imagen](https://i.ibb.co/GvPnfSvc/Whats-App-Image-2025-05-06-at-4-12-35-PM.jpg)
+![Mi imagen](https://i.ibb.co/BV3rwvd3/Whats-App-Image-2025-05-06-at-4-12-35-PM.jpg)
 
 ## Rol Administrador
 
